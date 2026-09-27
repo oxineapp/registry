@@ -1,0 +1,4 @@
+# Apps listed under "From the community" in Oxine's store: one creator/repo
+# per line. A repo also needs the oxine-app topic and a release Oxine can
+# install (see APPS_DESIGN.md in oxineapp/oxine).
+oxineapp/notchsapp
